@@ -7,7 +7,6 @@
 .login__wrap {
     width: 100%;
     min-height: 100vh;
-    background: url(../images/login.jpg) center center no-repeat;
     position: relative;
 }
 
